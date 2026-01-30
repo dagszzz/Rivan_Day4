@@ -1734,7 +1734,7 @@ conf t
  aaa new-model
  radius server WINRAD
   address ipv4 10.92.1.8 auth-port 1812 acct-port 1813
-  key C1sc0123
+  key aaaaaaaa
   exit
  aaa group server radius RADGROUP
   server name WINRAD
